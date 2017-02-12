@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-es6-boilerplate",
+  "name": "twitter-stream-example",
   "version": "0.0.1",
-  "description": "Boilerplate for nodejs using es6",
+  "description": "Twitter firehose api example",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sespinosa/nodejs-es6-boilerplate.git"
+    "url": "git+https://github.com/sespinosa/twitter-stream-example.git"
   },
   "keywords": [
     "es6",
@@ -31,7 +31,7 @@
     "babel"
   ],
   "bugs": {
-    "url": "https://github.com/sespinosa/nodejs-es6-boilerplate/issues"
+    "url": "https://github.com/sespinosa/twitter-stream-example/issues"
   },
-  "homepage": "https://github.com/sespinosa/nodejs-es6-boilerplate#readme"
+  "homepage": "https://github.com/sespinosa/twitter-stream-example#readme"
 }
