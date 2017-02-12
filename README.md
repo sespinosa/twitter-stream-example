@@ -1,4 +1,4 @@
-# nodejs-es6-boilerplate
+# twitter-stream-example
 
 
 ### Install stuff
